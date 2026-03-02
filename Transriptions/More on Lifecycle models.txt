@@ -1,0 +1,4 @@
+tmxy475_2017j_vid005-320x176
+
+INSTRUCTOR: All the lifecycle models we show you are simplifications. What you do on your project with your development will be unique and different, and we'd like you to notice those differences. Maybe the lifecycle model is designed for projects where there are many staff and there's only one of you; or they're designed on a different time scale, so think about how what you're doing is different, and describe it. That shows you're thinking about the process.
+

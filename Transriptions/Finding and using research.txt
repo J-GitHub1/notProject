@@ -1,0 +1,26 @@
+
+
+LEONOR BARROCA: Hello. I'm Leonor Barroca. I'm the chair of the computing and IT project TM470.
+I'm here today with Chris Thomson and Simon Dugmore, who are two very experienced supervisors of projects. And we are going to talk now about finding and using research in your projects.
+So maybe I start with Chris. Chris, can you tell us a bit about what are the main problems that students face when they are told they have to research the idea of their projects?
+CHRIS THOMSON: Well, when you start your project, it can be quite daunting at first. But also, it can be quite exciting and you want to jump right in and get on with it. However, that's not necessarily the best way to go about it.
+Your research will help you guide your project, help you find a path through work that other people have done, but also customising it to your own situation. So my advice would always be start to look around. See what's out there.
+You won't necessarily find things which directly match what you're doing. So break it down into smaller chunks. And try and find bits of research or technical articles that other people have written that help you to solve the problem.
+LEONOR BARROCA: So Simon, do you want to add anything about the sources of references student find?
+SIMON DUGMORE: Yes. Certainly. Google and Wikipedia are great for queries at home. But for your studies, you need to use Google Scholar. The Open University pays for extensive subscriptions to academic papers. And you can use your OU credentials with Google Scholar to access this material for free.
+LEONOR BARROCA: Chris, students usually find a lot of information. But they find quite difficult to use that information within their projects. So what would you suggest they do with it?
+CHRIS THOMSON: Yeah. It can be difficult to tie sources into your project. The main idea I find is useful is to start to begin to form a narrative in your project. Try to tell the story, the places, the context of your project into the wider world, both into what you're doing and into the literature and so on that you've read. And use that to inform what you want to do to set out a clear path where you can reuse other people's work, but also build it and add in your own ideas.
+LEONOR BARROCA: Simon, do you want to add anything to what Chris said?
+SIMON DUGMORE: Yeah. Certainly. Finding a solution and then trying to find a problem to fit it isn't necessarily a good way to run a project. Think about the issues you face. And find solutions for them.
+Now, sometimes, setting aside a big block for research can be counterproductive. It's better to set aside small blocks of time through the project. And this means that if you encounter a problem, you can find a solution. And it's appropriate. So we're not trying to fit a problem into some ready-made solution.
+LEONOR BARROCA: Students also find quite a diversity of sources. What would you tell them about evaluating the quality of these sources?
+SIMON DUGMORE: We have a prompt methodology that's detailed on the website and that gets you to think about the quality. Who's written it? Why are they an authority on it? Has it been checked-- whole series of background because we know that there's fake news and there's quality news. And the same applies in research. We want to look at fact-based research so that the work is solid and not based on opinion.
+LEONOR BARROCA: OK. The word "research" sometimes is a bit scary. And students may think, oh, we need to be original. So do you have any suggestions about how original they have to be with their solutions or which kind of problems they face or how much they can do of what has already been done before?
+SIMON DUGMORE: In a way, we're cheating. Even at level three, we've simplified some topics and maybe glossed over details that you'll encounter for real on a real project.
+Finding the solutions may be well-established. Those solutions may have been found many years ago. And so you don't have to find research that was written last week. You need to find the current view for that topic. And that might be going back in time some way. For some databases, it's going back to the '70s. So that's extreme.
+LEONOR BARROCA: Yeah. So it's really a question of finding what is appropriate for their problem.
+SIMON DUGMORE: Yes. So it's filling in the gaps that we've glossed over.
+LEONOR BARROCA: Are there any other tips you'd like to give students related to research-- finding it, using it, integrating it with their project?
+CHRIS THOMSON: Yes. Integrating research into the project can be quite hard. A lot of students will start thinking about trying to write a literature review. And this often starts off as something that looks a bit like a book review. And that's not really what we're looking for. Really, we're looking for how it works for your project, how that information is informing your project.
+So you might start off with something like prompt that's helping you to understand the credibility. That will help to build that narrative that I mentioned earlier. But it also can then feed into a more technical discussion in the main body of your report, maybe solving more detailed problems there in a very practical way.
+LEONOR BARROCA: Chris and Simon, thank you very much for being here.
